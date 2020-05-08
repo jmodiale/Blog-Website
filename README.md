@@ -1,4 +1,4 @@
-# First Project - Udacity Front End Nanno-Degree Program
+# First Project - Udacity Front End Nano-Degree Program
 
 ## Project Type
 Personal Blog Website

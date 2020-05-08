@@ -1,0 +1,56 @@
+body {
+    font-family: 'jost', helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0;
+    margin:0;
+    background-color: beige;
+}
+
+/*for all elements that have the class container*/
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: brown 3px solid;
+}
+ul {
+    margin:0;
+    padding: 0;
+}
+header h1 {
+    color: brown;
+    font-size: 35px;
+    font-family: papyrus;
+}
+header #navbar {
+    float: left;
+}
+header #navbar h1{
+    margin:0;
+}
+header nav {
+    float:right;
+    margin-top: 10px;
+}
+
+header li {
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header a {
+    text-decoration: none;
+    color: brown;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+header a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}

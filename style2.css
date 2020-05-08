@@ -1,0 +1,35 @@
+#coverpage {
+    min-height: 400px;
+    background: url('../Img/computer-monitor-coding-programming-2194062.jpg');
+    color: whitesmoke;
+    text-align: center;
+}
+#coverpage h1 {
+    margin: 100px 0 10px 0;
+    font-size: 40px;
+}
+#cardarea {
+    margin-top: 20px;
+    display: grid;
+    flex-wrap: wrap;
+}
+#cardarea .card {
+    display:flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+    color: brown;
+    text-align: center;
+    font-family: papyrus;
+}

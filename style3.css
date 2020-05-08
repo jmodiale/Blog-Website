@@ -1,0 +1,8 @@
+.socialmedia img {
+    border-radius: 50%;
+    max-width: 20px;
+    max-height: 20px;
+}
+figure {
+    margin-right: 50px;
+}

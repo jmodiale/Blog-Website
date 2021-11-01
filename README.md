@@ -1,9 +1,7 @@
-# First Project - Udacity Front End Nano-Degree Program
-
-## Project Type
+# Project Type
 Personal Blog Website
 
-### Project Objective
+## Project Objective
 
 Utilize HTML and CSS to build a personal blog website, including custom images, layout, and styling. 
 Along with webpage design considerations, files must be structured properly, as well as proper use of CSS 
